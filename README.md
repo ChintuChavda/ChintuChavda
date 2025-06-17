@@ -66,4 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintuChavda&layout=compact&theme=algolia&hide_border=true&langs_count=10"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChintuChavda&layout=compact" />
+</p>
+
+
 ---
