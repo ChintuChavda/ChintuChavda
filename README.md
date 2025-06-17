@@ -49,18 +49,13 @@
 </p>  
 
 <p align="center">  
-  <strong>📝 Blog App</strong><br>
-  <a href="https://your-blog-app-link/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=your-blog-repo&theme=algolia&v=1"/></a>
+  <strong>☁️ Weather App</strong><br>
+  <a href="https://weather-app-chi-mauve.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=Weather-App&theme=algolia&v=1"/></a>
 </p>
 
 <p align="center">  
-  <strong>📘 Student Result System</strong><br>
-  <a href="https://your-result-system-link/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=student-result-project&theme=algolia&v=1"/></a>
-</p>
-
-<p align="center">  
-  <strong>💬 Discussion Forum</strong><br>
-  <a href="https://your-forum-link/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=forum-project&theme=algolia&v=1"/></a>
+  <strong>🎮 Simon Game</strong><br>
+  <a href="https://chintuchavda.github.io/Simon-Game/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=Simon-Game&theme=algolia&v=1"/></a>
 </p>
 
 ---
