@@ -45,7 +45,7 @@
 
 <p align="center">
   <strong>🌐 Portfolio</strong><br>
-  <a href="https://your-portfolio.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=your-portfolio-repo&theme=algolia&v=1"/></a>
+  <a href="https://chintu1823-portfolio.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=your-portfolio-repo&theme=algolia&v=1"/></a>
 </p>  
 
 <p align="center">  
