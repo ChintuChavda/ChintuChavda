@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-> **Frontend Developer | JavaScript Enthusiast | React.js Lover**
+> **Frontend Developer | JavaScript Enthusiast | React.js**
 
 - 🎓 Final Year Student | MCA (or update with your actual course)
 - 💻 Passionate about **building beautiful and responsive UIs**
