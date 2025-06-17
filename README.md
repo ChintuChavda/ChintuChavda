@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Chintu+Chavda!;Welcome+to+my+GitHub!&center=true&size=30&color=00C8FF">
+  </a>
+</h1>
 
-<!--
-**ChintuChavda/ChintuChavda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ChintuChavda&color=brightgreen" alt="Profile Views">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+> **Full-Stack Developer | JavaScript Lover | MERN Stack Enthusiast**
+
+- 🎓 Final Year Student | BCA/MCA (Update your course info here)
+- 💻 Passionate about **Frontend + Backend Development**
+- 🌐 Building **real-world projects** using **MERN & modern tools**
+- 📚 Learning daily & sharing what I learn
+- 🤝 Open to **collaboration** & **freelancing**
+- 💡 **Fun Fact:** You can write JS like poetry with `map`, `filter`, `reduce` 🎯
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://your-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github" alt="Tech Stack">
+</p>
+
+---
+
+## 📌 Top Projects
+
+<p align="center">
+  <strong>🌐 Portfolio</strong><br>
+  <a href="https://your-portfolio.vercel.app/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=your-portfolio-repo&theme=algolia&v=1"/></a>
+</p>  
+
+<p align="center">  
+  <strong>📝 Blog App</strong><br>
+  <a href="https://your-blog-app-link/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=your-blog-repo&theme=algolia&v=1"/></a>
+</p>
+
+<p align="center">  
+  <strong>📘 Student Result System</strong><br>
+  <a href="https://your-result-system-link/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=student-result-project&theme=algolia&v=1"/></a>
+</p>
+
+<p align="center">  
+  <strong>💬 Discussion Forum</strong><br>
+  <a href="https://your-forum-link/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChintuChavda&repo=forum-project&theme=algolia&v=1"/></a>
+</p>
+
+---
+
+## 🚀 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintuChavda&layout=compact&theme=algolia&hide_border=true&langs_count=10"/>
+</p>
+
+---
