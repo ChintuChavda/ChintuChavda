@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-> **Full-Stack Developer | JavaScript Lover | MERN Stack Enthusiast**
+> **Frontend Developer | JavaScript Enthusiast | React.js Lover**
 
-- 🎓 Final Year Student | BCA/MCA (Update your course info here)
-- 💻 Passionate about **Frontend + Backend Development**
-- 🌐 Building **real-world projects** using **MERN & modern tools**
-- 📚 Learning daily & sharing what I learn
-- 🤝 Open to **collaboration** & **freelancing**
-- 💡 **Fun Fact:** You can write JS like poetry with `map`, `filter`, `reduce` 🎯
+- 🎓 Final Year Student | MCA (or update with your actual course)
+- 💻 Passionate about **building beautiful and responsive UIs**
+- 🌐 Skilled in **HTML, CSS, JavaScript, React.js, and modern UI frameworks**
+- 📚 Always learning and staying updated with **latest frontend trends**
+- 🤝 Open to **internships, collaborations, and freelance work**
+- 💡 **Fun Fact:** You can center anything with Flexbox... eventually 😅
 
 ---
 
